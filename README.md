@@ -1,1 +1,1 @@
-# GraphQL lab```npm run client``````npm run server```
+# GraphQL lab## How to run```npm run client``````npm run server```## Learning flow- graphql-simple- grqphql-objects- graphql-constructed
